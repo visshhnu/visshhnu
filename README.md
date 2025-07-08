@@ -42,8 +42,8 @@ Here are some hands-on DevOps projects I've worked on (see pinned repos below fo
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnusiddhu&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnusiddhu&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=visshhnu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visshhnu&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ Here are some hands-on DevOps projects I've worked on (see pinned repos below fo
 
 - 📧 Email: **vishnusiddhu368@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/vishnusiddhu](https://www.linkedin.com/in/vishnusiddhu)
-- 🌐 Portfolio (coming soon): `https://vishnusiddhu.github.io/`
+- 🌐 Portfolio (coming soon): `https://visshhnu.github.io/`
 - 💼 Open to: Freelance, Remote Projects, Contract Roles
 
 ---
