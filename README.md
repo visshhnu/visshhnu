@@ -1,41 +1,79 @@
-<!-- Your GitHub Profile README.md -->
+<!-- GitHub Profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Vishnu B.</h1>
-<h3 align="center">Senior DevOps & Technical Support Engineer | 12+ Years Experience | Linux | CI/CD | Cloud</h3>
+<h3 align="center">Senior DevOps Engineer | DevOps | Kubernetes | OpenShift | Telecom Production Support | 11+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishnusiddhu&label=Profile%20views&color=0e75b6&style=flat" alt="vishnusiddhu" />
+  <img src="https://komarev.com/ghpvc/?username=visshhnu&label=Profile%20views&color=0e75b6&style=flat" alt="visshhnu" />
 </p>
 
 ---
 
 ### 🔧 About Me
 
-- 🔹 12+ years of experience in **Linux system administration**, **DevOps engineering**, and **infrastructure automation**
-- 🔹 Specialized in **CI/CD pipelines**, **Cloud platforms** (AWS, Azure), **Containerization**, and **Monitoring**
-- 🔹 Expert in tools like: **Jenkins, Docker, Kubernetes, Git, Ansible, Terraform**
-- 🔹 Proven track record in **technical support** and handling **live production issues**
-- 🔹 Passionate about **building scalable, automated, and reliable systems**
-- 🔹 Currently based in **Romania**, open to **remote freelance or contract opportunities**
+- 🔹 Senior Technical Engineer with **11+ years of experience in Telecom Production Support, DevOps, and Infrastructure Engineering**
+- 🔹 Currently working on **mission-critical telecom applications handling millions of subscribers**
+- 🔹 Specialized in **Kubernetes (OpenShift), Docker, CI/CD pipelines, Linux administration, and production troubleshooting**
+- 🔹 Strong experience in **incident management, root cause analysis (RCA), and live production issue resolution**
+- 🔹 Hands-on expertise in **microservices deployment, container orchestration, and platform reliability**
+- 🔹 Experienced in working with **Kafka, distributed systems, and high-availability environments**
+- 🔹 Skilled in **automation, monitoring, and operational stability for enterprise-grade systems**
+- 🔹 Passionate about **DevOps transformation, automation, and cloud-native technologies**
+- 🔹 Currently based in **India**, open to **DevOps and Senior Engineering opportunities**
 
 ---
 
-### 🛠️ Technologies & Tools
-Linux | AWS | Azure | Docker | Kubernetes | Ansible | Jenkins | Git | Terraform | Bash | Python | Monitoring | ELK | Prometheus | Grafana
+### 🛠️ Core Technologies & Tools
+
+**Operating Systems:**  
+Linux (RHEL, CentOS, Ubuntu)
+
+**Containerization & Orchestration:**  
+Docker | Kubernetes | OpenShift | Helm
+
+**DevOps & CI/CD:**  
+Jenkins | GitHub | GitLab | CI/CD Pipelines | Maven
+
+**Cloud & Infrastructure:**  
+AWS (Learning & Hands-on) | On-Prem Infrastructure | Infrastructure Automation
+
+**Monitoring & Observability:**  
+Prometheus | Grafana | ELK Stack | Kibana | Log Analysis
+
+**Messaging & Middleware:**  
+Apache Kafka | Distributed Systems | Telecom Order Management Systems
+
+**Scripting & Automation:**  
+Bash | Shell Scripting | YAML | Automation Scripts
+
+**Version Control:**  
+Git | GitHub | GitLab | Bitbucket
 
 ---
 
 ### 📂 Featured Projects
 
-Here are some hands-on DevOps projects I've worked on (see pinned repos below for full code):
-
 | Project | Description |
 |--------|-------------|
-| 🔁 **CI/CD Pipeline with Jenkins** | Automated build-test-deploy flow using Jenkins + GitHub + Docker |
-| ☸️ **Kubernetes Microservice Deployment** | Helm-based deployment of microservices on K8s cluster |
-| ⚙️ **AWS Infrastructure as Code** | Full VPC setup using Terraform with EC2, RDS, S3 |
-| 🐳 **Dockerized Python App** | A Flask app containerized and deployed with Nginx reverse proxy |
-| 🛡 **Linux Server Hardening** | Ansible playbooks to secure Ubuntu production servers |
+| ☸️ **OpenShift Application Deployment** | Deployed and managed telecom microservices on OpenShift clusters |
+| 🔁 **CI/CD Pipeline Automation** | Built Jenkins pipelines for automated build and deployment |
+| 🐳 **Dockerized Microservices** | Containerized applications for consistent deployment |
+| 📊 **Monitoring & Alerting Setup** | Implemented monitoring using Prometheus, Grafana, and ELK |
+| ⚙️ **Production Support Automation** | Automated troubleshooting and operational tasks using shell scripts |
+| 📦 **GitHub DevOps Repository** | Version control, CI/CD integration, and deployment automation |
+
+---
+
+### 💼 Professional Expertise
+
+- ✔ Production Incident Management & RCA
+- ✔ Kubernetes & OpenShift Administration
+- ✔ Telecom Application Support
+- ✔ CI/CD Pipeline Implementation
+- ✔ Linux System Administration
+- ✔ Microservices Deployment & Support
+- ✔ Performance Analysis & Troubleshooting
+- ✔ Automation & DevOps Practices
 
 ---
 
@@ -51,10 +89,20 @@ Here are some hands-on DevOps projects I've worked on (see pinned repos below fo
 ### 📫 Contact Me
 
 - 📧 Email: **vishnusiddhu368@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/vishnusiddhu](https://www.linkedin.com/in/vishnusiddhu)
-- 🌐 Portfolio (coming soon): `https://visshhnu.github.io/`
-- 💼 Open to: Freelance, Remote Projects, Contract Roles
+- 🔗 LinkedIn: https://www.linkedin.com/in/vishnusiddhu
+- 🌐 GitHub: https://github.com/visshhnu
+- 💼 Open to: Senior DevOps Engineer | Site Reliability Engineer (SRE) | Platform Engineer Roles
 
 ---
 
-⭐️ **Thanks for visiting my GitHub profile! Feel free to check out my pinned projects and connect with me.**
+### 🚀 Career Focus
+
+- DevOps Engineering  
+- Kubernetes & Cloud Native Platforms  
+- Site Reliability Engineering (SRE)  
+- Infrastructure Automation  
+- Cloud & Platform Engineering  
+
+---
+
+⭐️ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
